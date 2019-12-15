@@ -28,8 +28,8 @@ def monopoly_with_third_tier
   monopoly_hash[:railroads][:rent_in_dollars][:three_pieces_owned] = 100
   monopoly_hash[:railroads][:rent_in_dollars][:four_pieces_owned] = 200
   
-  #monopoly_hash[:railroads][:rent_in_dollars][:names][:reading_railroad] = {}
-  monopoly_hash[:railroads][:rent_in_dollars][:names][:pennsylvania_railroad] = {}
+  monopoly_hash[:railroads][:rent_in_dollars][:names][:reading_railroad] = {}
+  #monopoly_hash[:railroads][:rent_in_dollars][:names][:pennsylvania_railroad] = {}
   monopoly_hash[:railroads][:rent_in_dollars][:names][:b_and_o_railroad] = {}
   monopoly_hash[:railroads][:rent_in_dollars][:names][:shortline] = {}
   

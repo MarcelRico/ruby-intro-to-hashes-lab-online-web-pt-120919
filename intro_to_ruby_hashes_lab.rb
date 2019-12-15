@@ -40,5 +40,6 @@ def monopoly_with_fourth_tier
   monopoly_hash = monopoly_with_third_tier
   
   monopoly_hash[:railroads][:names][:reading_railroad]["mortgage_value"] = '$100'
+    monopoly_hash[:railroads][:names][:reading_railroad]["mortgage_value"] = '$100'
 
 end
